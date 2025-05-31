@@ -19,7 +19,7 @@
 
 <h3>🔗&nbsp;Connect with me</h3>
 <a href="https://discord.com/users/925824703778668584"><img src="https://pl1xy.pro/github/icon_discord.png" width="50" height="50" title="Discord"></a>
-<a href="[https://www.instagram.com/sseizu/](https://www.twitch.tv/sourxq)"><img src="https://pl1xy.pro/github/icon_twitch.png" width="50" height="50" title="Twitch"></a>
+<a href="https://www.twitch.tv/sseizu"><img src="https://pl1xy.pro/github/icon_twitch.png" width="50" height="50" title="Twitch"></a>
 <a href="https://discord.gg/sincerity"><img src="https://pl1xy.pro/github/icon_web.png" width="50" height="50" title="Web"></a>
 <a href="https://www.instagram.com/sseizu/"><img src="https://pl1xy.pro/github/icon_instagram.png" width="50" height="50" title="Instagram"></a>
 </div>
