@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
+<img src="https://seizu.pro/github/i/banner.png" alt="header" width="100%" height="auto" />
 
-<!--
-**sseizu/sseizu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>✌️&nbsp;About me</h3>
+&nbsp;i am a seizu, love films, latte, music, gta, valorant, lol, maths, cats and white/black/purple colors.<br>ex-riot employee, i don't like loud and crowded places, not very sociable.
+<br><br>
 
-Here are some ideas to get you started:
+<h3>🖤&nbsp;Languages</h3>
+<img src="https://seizu.pro/github/i/icon_html.png" width="80" height="28" title="HTML"></a>
+<img src="https://seizu.pro/github/i/icon_python.png" width="80" height="28" title="Python"></a>
+<img src="https://seizu.pro/github/i/icon_css.png" width="80" height="28" title="CSS"></a>
+<img src="https://seizu.pro/github/i/icon_php.png" width="80" height="28" title="PHP"></a>
+<br>
+<img src="https://seizu.pro/github/i/icon_c.png" width="80" height="28" title="C"></a>
+<img src="https://seizu.pro/github/i/icon_typescript.png" width="80" height="28" title="TypeScript"></a>
+<img src="https://seizu.pro/github/i/icon_mysql.png" width="80" height="28" title="Mysql"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h3>🔗&nbsp;Connect with me</h3>
+<a href="https://discord.com/users/925824703778668584"><img src="https://seizu.pro/github/icon_discord.png" width="50" height="50" title="Discord"></a>
+<a href="https://www.twitch.tv/sseizu"><img src="https://seizu.pro/github/icon_twitch.png" width="50" height="50" title="Twitch"></a>
+<a href="https://discord.gg/sincerity"><img src="https://seizu.pro/github/icon_web.png" width="50" height="50" title="Web"></a>
+<a href="https://www.instagram.com/sseizu/"><img src="https://seizu.pro/github/icon_instagram.png" width="50" height="50" title="Instagram"></a>
+</div>
